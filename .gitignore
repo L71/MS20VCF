@@ -1,0 +1,20 @@
+# ignore these ...
+
+*.o
+
+*.elf
+*.bin
+*.hex
+
+*.pyc
+
+# OS X crap
+.DS_Stor?
+
+# Eagle backup files
+*.b#?
+*.s#?
+*.b$?
+*.s$?
+*.lck
+
